@@ -1,0 +1,10 @@
+{
+
+  "NoDelay": true,
+  "Interval": 10,
+  "FastResend": 2,
+  "CongestionWindow": false,
+  "SendWindowSize": 4096,
+  "ReceiveWindowSize": 4096,
+  "ConnectionTimeout": 10000
+}
