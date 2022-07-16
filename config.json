@@ -1,6 +1,6 @@
 {
   "TransportDLL": "MultiCompiled.dll",
-  "TransportClass": "kcp2k.KcpTransport",
+  "TransportClass": "Mirror.TelepathyTransport",
   "AuthenticationKey": "Secret Auth Key",
   "TransportPort": 7777,
   "UpdateLoopTime": 10,
